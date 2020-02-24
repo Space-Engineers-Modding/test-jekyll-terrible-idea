@@ -1,7 +1,4 @@
 source "https://rubygems.org"
+ruby RUBY_VERSION
 
-# to publish on github page
-gem 'github-pages', group: :jekyll_plugins
-
-# to publich without github page
-#gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
