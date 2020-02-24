@@ -1,8 +1,8 @@
 #
 # Site settings
 #
-remote_theme: cdrch/test-jekyll-terrible-idea/
-url: https://cdrch.github.io/test-jekyll-terrible-idea/
+remote_theme: cdrch/test-jekyll-terrible-idea
+url: https://cdrch.github.io/
 baseurl: /test-jekyll-terrible-idea
 title: &site_title Pretty Docs
 description: &site_description Free Bootstrap theme for your project documentation
@@ -64,10 +64,6 @@ share:
     repo: LeakyAbstractions/pretty-docs
     position: right
     color: red
-
-
-# Google Analytics
-google_analytics: UA-61670496-5
 
 
 #
